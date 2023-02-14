@@ -1,0 +1,25 @@
+{
+  "name": "softuni-cubical-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delianvalchanov/Softuni-Cubical-Workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delianvalchanov/Softuni-Cubical-Workshop/issues"
+  },
+  "homepage": "https://github.com/delianvalchanov/Softuni-Cubical-Workshop#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "homepage": "https://github.com/delianvalchanov/Softuni-Cubical-Workshop#readme"
+}
